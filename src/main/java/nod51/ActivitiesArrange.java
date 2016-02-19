@@ -1,3 +1,5 @@
+package main.java.nod51;
+
 import java.io.*;
 import java.util.*;
 /**
